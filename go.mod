@@ -1,4 +1,4 @@
-module github.com/mattermost/mattermost-plugin-starter-template
+module github.com/glass.plugin-babysteps
 
 go 1.21
 
